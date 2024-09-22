@@ -1,1 +1,1 @@
-# PRNG_Classification
+# PRNG_Classification(DL based)
